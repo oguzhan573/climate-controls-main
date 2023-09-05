@@ -1,1 +1,1 @@
-# climate-controls-main
+kodları kendi klimanızın kodlarıyla düzeltiniz IR sensör ile klimanızdaki giden kodları görebilirsiniz ve firebase database deki token ve link i yazınız-Correct the codes with the codes of your own air conditioner, you can see the outgoing codes in your air conditioner with the IR sensor and write the token and link in the firebase database.
