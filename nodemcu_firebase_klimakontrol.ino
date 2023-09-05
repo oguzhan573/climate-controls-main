@@ -5,7 +5,7 @@
 #include "FirebaseESP8266.h"
 #include <ESP8266WiFi.h>
 #define FIREBASE_HOST "" // http:// veya https:// olmadan yazın
-#define FIREBASE_AUTH "f"
+#define FIREBASE_AUTH ""
 #define WIFI_SSID ""
 #define WIFI_PASSWORD ""
 
