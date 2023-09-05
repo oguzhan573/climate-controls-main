@@ -4,10 +4,10 @@
 #include <Arduino.h>
 #include "FirebaseESP8266.h"
 #include <ESP8266WiFi.h>
-#define FIREBASE_HOST "klimakontrol-6fdfb-default-rtdb.firebaseio.com" // http:// veya https:// olmadan yazın
-#define FIREBASE_AUTH "TknFhvduqlBdu5kLaAPWj53zX6TdvyfoDMGgZqGf"
-#define WIFI_SSID "Buta"
-#define WIFI_PASSWORD "Buta2016"
+#define FIREBASE_HOST "" // http:// veya https:// olmadan yazın
+#define FIREBASE_AUTH "f"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 FirebaseData veritabanim;
 //burada tanımladığımız değişkenler ile komut vermediğimiz durumlarda kodun işlem yapmaması için durum değişkenleri tanımladık.
